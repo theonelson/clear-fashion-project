@@ -342,4 +342,4 @@ selectSort.addEventListener('change', () => {
 sectionProducts.addEventListener('click', handleFavoriteButtonClick);
 checkboxFavorites.addEventListener('change', applyFiltersAndSort);
 
-// ddddddd dddddd test test 
+// d
